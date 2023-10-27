@@ -21,4 +21,6 @@
 
 ---
 
+Еще больше полезных команд на [официальном сайте GIT](https://git-scm.com/)
+
 LICENSE: [MIT](./license.md)
